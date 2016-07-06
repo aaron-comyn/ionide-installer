@@ -1,5 +1,5 @@
 {
-  "name": "ionide-installer",
+  "name": "structured-markdown-installer",
   "main": "./lib/installer",
   "version": "0.0.1",
   "description": "Installer for Structured Markdown",
